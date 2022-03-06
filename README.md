@@ -25,7 +25,7 @@ Follow me on [GitHub](https://github.com/alexandrelezon) <a href="https://github
   <img align="center" alt="Alexandre Lezón | LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/d185711ee6d5a78f819d5ddb022daa1a36664825/logos-1-original/linkedin-original.svg" />
 </a> and [Spotify](https://https://open.spotify.com/user/alexandrelezon) <a href="https://https://open.spotify.com/user/alexandrelezon">
   <img align="center" alt="Alexandre Lezón | Spotify" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/657f0bf59a040b23c97ea70cd71bde60b6ef874a/logos-1-original/spotify-original.svg" />
-</a> at @alexandrelezon.
+</a>. My only username is @alexandrelezon.
 <br />
 
 ---
