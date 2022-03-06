@@ -1,6 +1,6 @@
-## Alexandre Lezón
+## Alexandre Lezón - About Me
 
-I only know these Git commands:
+I only know the following Git commands:
 ```
 git status
 git add
