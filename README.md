@@ -22,7 +22,7 @@ Follow me on [GitHub](https://github.com/alexandrelezon), [Twitter](https://twit
   <img align="left" alt="Alexandre's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://facebook.com/alexandrelezon">
-  <img align="left" alt="Alexandre's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Alexandre's Facebook" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/bb9a17d55d4da212e431e5ef422beeb6fe080f95/logos/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexandrelezon/">
   <img align="left" alt="Alexandre's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
