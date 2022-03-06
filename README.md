@@ -14,17 +14,17 @@ git commit
 ### Social Media
 
 Follow me on [GitHub](https://github.com/alexandrelezon) <a href="https://github.com/alexandrelezon">
-  <img align="center" alt="Alexandre Lezón | GitHub" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/657f0bf59a040b23c97ea70cd71bde60b6ef874a/logos-1-original/github-original.svg" />
+  <img align="center" alt="Alexandre Lezón | GitHub" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/github-original.svg" />
 </a>, [Twitter](https://twitter.com/alexandrelezon) <a href="https://twitter.com/alexandrelezon">
-  <img align="center" alt="Alexandre Lezón | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Alexandre Lezón | Twitter" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/twitter-original.svg" />
 </a>, [Facebook](https://facebook.com/alexandrelezon) <a href="https://facebook.com/alexandrelezon">
-  <img align="center" alt="Alexandre Lezón | Facebook" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/faade45ee9e118ec103e98c937539a78dce5d9e6/logos-1-original/facebook-original.svg" />
+  <img align="center" alt="Alexandre Lezón | Facebook" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/facebook-original.svg" />
 </a>, [Instagram](https://instagram.com/alexandrelezon) <a href="https://instagram.com/alexandrelezon">
-  <img align="center" alt="Alexandre Lezón | Instagram" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/657f0bf59a040b23c97ea70cd71bde60b6ef874a/logos-1-original/instagram-original.svg" />
+  <img align="center" alt="Alexandre Lezón | Instagram" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/instagram-original.svg" />
 </a>, [LinkedIn](https://linkedin.com/in/alexandrelezon) <a href="https://linkedin.com/in/alexandrelezon">
-  <img align="center" alt="Alexandre Lezón | LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/d185711ee6d5a78f819d5ddb022daa1a36664825/logos-1-original/linkedin-original.svg" />
+  <img align="center" alt="Alexandre Lezón | LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/linkedin-original.svg" />
 </a> and [Spotify](https://https://open.spotify.com/user/alexandrelezon) <a href="https://https://open.spotify.com/user/alexandrelezon">
-  <img align="center" alt="Alexandre Lezón | Spotify" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/657f0bf59a040b23c97ea70cd71bde60b6ef874a/logos-1-original/spotify-original.svg" />
+  <img align="center" alt="Alexandre Lezón | Spotify" width="22px" src="https://raw.githubusercontent.com/alexandrelezon/logos/main/logos-1-original/spotify-original.svg" />
 </a>. My only username is @alexandrelezon.
 <br />
 
