@@ -1,4 +1,4 @@
-## Alexandre Lezón - About Me
+## Alexandre Lezón - About me
 
 I only know the following Git commands:
 ```
