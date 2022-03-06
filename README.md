@@ -1,6 +1,15 @@
 ## Alexandre Lezón
 
-Coming soon.
+I only know these Git commands:
+```
+git status
+git add
+git commit
+```
+
+### Social Media
+
+Follow me on [Twitter](https://twitter.com/alexandrelezon), [Facebook](https://facebook.com/alexandrelezon), [Instagram](https://instagram.com/alexandrelezon) and [LinkedIn](https://linkedin.com/in/alexandrelezon) at @alexandrelezon.
 
 ### VOST Portugal
 
