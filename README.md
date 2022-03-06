@@ -13,6 +13,10 @@ Follow me on [GitHub](https://github.com/alexandrelezon), [Twitter](https://twit
 
 ### VOST Portugal
 
+<p align="left">
+  <img src="https://vost.pt/wp-content/uploads/2022/01/cropped-VOSTPT_LOGO_PNG_TRANSP-1.png" width="48">
+</p>
+
 [VOST Portugal - Associação de Voluntários Digitais em Situações de Emergência](https://vost.pt), is a registered Civil Protection Association, non-profit and born, informally, in August 2018, during [Monchique's fires](https://pt.wikipedia.org/wiki/Incêndio_de_Monchique_de_2018).
 
 We are on [GitHub](https://github.com/vostpt), [Twitter](https://twitter.com/vostpt), [Facebook](https://facebook.com/vostpt), [Instagram](https://instagram.com/vostpt) and [LinkedIn](https://linkedin.com/company/vostpt) at @vostpt.
