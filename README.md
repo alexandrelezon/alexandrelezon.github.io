@@ -2,8 +2,6 @@
 
 Hi there, I'm Alexandre. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm currently a Social Media Manager for VOST Portugal ([@vostpt](https://github.com/vostpt)), an athlete, a student and a coding ~~noob~~ learner in my free time.
-
 Currently, I only know these three Git commands:
 ```
 git status
